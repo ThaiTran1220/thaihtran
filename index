@@ -1,35 +1,66 @@
-<p>&nbsp;</p>
-<p></p>
-<div class="jumbotron text-center" style="margin-bottom: 0;">
-<h1>College of Engineering - CSULB</h1>
-<h3>Thai Tran - Pre-Computer Science</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Roni Allen - A little about me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+    <h1>College of Engineering - CSULB </h1>
+  <h3>Thai Tran - Pre-Computer Science<i class="fas fa-university" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i></h3>
+
 </div>
-<div class="container" style="margin-top: 30px;"><hr class="featurette-divider" />
+
+
+<div class="container" style="margin-top:30px">
+    
+ <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">A LITTLE ABOUT <span class="text-muted">ME.</span></h2>
+        <p class="lead">Welcome to my page! My name is Thai Tran. I am currently a freshman attending California State Long Beach. As a kid, I've always been fascinated with technology and how it operates. As I got older, this interest of mine became my motivation to study in the STEM field as I wish to pursue a career in this area. Some of my hobbies include swimming, playing video games, and volleyball. I enjoy to hang out with my friends during my free time and whenever I'm alone, I prefer to watch T.V. shows/movies. I wish to be successful in my career in the future so I can support my parents who've done so much for me throughout my life. I also hope that I'll be able to make a difference in this world through perserverance and determination!</p>
+      </div>
+      <div class="col-md-5">
+        <img src="trant.jpg" alt="Thai Tran" width="400" height="400">
+
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">
+    
 <div class="row featurette">
-<div class="col-md-7">
-<h2 class="featurette-heading">A LITTLE ABOUT <span class="text-muted">ME.</span></h2>
-<p class="lead">Welcome to my page! My name is Thai Tran. I am currently a freshman attending California State Long Beach. As a kid, I've always been fascinated with technology and how it operates. As I got older, this interest of mine became my motivation to study in the STEM field as I wish to pursue a career in this area. Some of my hobbies include swimming, playing video games, and volleyball. I enjoy to hang out with my friends during my free time and whenever I'm alone, I prefer to watch T.V. shows/movies. I wish to be successful in my career in the future so I can support my parents who've done so much for me throughout my life. I also hope that I'll be able to make a difference in this world through perserverance and determination!</p>
+      <div class="col-md-7">
+          <ul>
+          <li>CECS105 - Introduction to CECS</li>
+          <li>CECS174 - Introduction to Programming</li>
+          <li>CECS225 - Digital Logic and Assembly Programming</li>
+          <li>CECS228 - Discrete Mathematics</li>
+          <li>CECS274 - Data Structures</li>     
+          </ul>
+        
+      </div>
+      <div class="col-md-5">
+         <h2 class="featurette-heading">CLASSES I HAVE BEEN  <span class="text-muted">TEACHING.</span></h2>
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">    
+    
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>Created by <a href="Thai.Tran01@student.csulb.edu">Thai Tran</a></p><p>Last updated on 4-29-21</p>
+    <i class="fas fa-chalkboard-teacher" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i>
 </div>
-<div class="col-md-5"><img src="trant.jpg" alt="Thai Tran" width="400" height="400" /></div>
-</div>
-<hr class="featurette-divider" />
-<div class="row featurette">
-<div class="col-md-7">
-<ul>
-<li>CECS105 - Introduction to CECS</li>
-<li>CECS174 - Introduction to Programming</li>
-<li>CECS225 - Digital Logic and Assembly Programming</li>
-<li>CECS228 - Discrete Mathematics</li>
-<li>CECS274 - Data Structures</li>
-</ul>
-</div>
-<div class="col-md-5">
-<h2 class="featurette-heading">CLASSES I HAVE <span class="text-muted">TAKEN.</span></h2>
-</div>
-</div>
-<hr class="featurette-divider" />
-<div class="jumbotron text-center" style="margin-bottom: 0;">
-<p>Created by <a href="Thai.Tran01@student.csulb.edu">Thai Tran </a></p>
-<p>Last updated on 5-4-21</p>
-</div>
-</div>
+    </div>
+</body>
+</html>
